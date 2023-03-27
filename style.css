@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: white;
+}
+img{
+    border-radius: 20px;
+    height: 250px;
+    width: 450px;
+    float: right;
+}
